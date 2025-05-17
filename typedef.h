@@ -97,7 +97,7 @@ enum BufferDesignTarget
 
 enum MemoryType
 {
-	MemData, # renamed to fix ambiguity
+	MemData, 			/* renamed to fix ambiguity */
 	tag,
 	CAM
 };
